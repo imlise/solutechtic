@@ -12,7 +12,8 @@
 
 import nodemailer from 'nodemailer';
 
-const LOGO_URL = 'https://solutechtic.com/images/logo_solutech2.png';
+const _URL = 'https://solutechsis.vercel.app';
+const LOGO_URL = `${_URL}/images/logo_solutech2.png`;
 
 function escapeHtml(str) {
   return str

@@ -2,6 +2,7 @@
   "name": "solutech-v3",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "description": "Site Solutech — fonction serverless Vercel pour le formulaire de contact",
   "dependencies": {
     "nodemailer": "^6.9.14"
